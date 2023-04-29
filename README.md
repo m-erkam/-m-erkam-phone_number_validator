@@ -1,4 +1,4 @@
-# phone_number_validator
+# @m-erkam/phone_number_validator
 A tool that validates the phone number which registered in Türkiye.
 
 # Installation
