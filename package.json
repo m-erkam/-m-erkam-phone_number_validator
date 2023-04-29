@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m-erkam/phone_number_validator.git"
+    "url": "https://github.com/m-erkam/phone_number_validator.git"
   },
   "keywords": [
     "validator",
