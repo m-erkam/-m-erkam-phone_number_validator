@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/m-erkam/-m-erkam-phone_number_validator.git"
+    "url": "https://github.com/m-erkam/m-erkam-phone_number_validator.git"
   },
   "keywords": [
     "phone",
@@ -18,7 +18,7 @@
   "author": "m-erkam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/m-erkam/-m-erkam-phone_number_validator/issues"
+    "url": "https://github.com/m-erkam/m-erkam-phone_number_validator/issues"
   },
-  "homepage": "https://github.com/m-erkam/-m-erkam-phone_number_validator#readme"
+  "homepage": "https://github.com/m-erkam/m-erkam-phone_number_validator#readme"
 }
