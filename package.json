@@ -1,0 +1,11 @@
+{
+  "name": "phone_number_validator",
+  "version": "1.0.0",
+  "description": "It takes the phone number and returns if it is valid or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m_erkam",
+  "license": "ISC"
+}
